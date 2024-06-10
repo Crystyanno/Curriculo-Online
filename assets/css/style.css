@@ -1,0 +1,20 @@
+.cabecalho  h1 {
+    margin: 15px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.headline {
+    font-size: 25px;
+}
+
+.footer {
+    background-color: var(--background);
+    padding: 25px;
+    text-align: center;
+    color: #fff;
+}
+
+span {
+    color: var(--span); 
+}

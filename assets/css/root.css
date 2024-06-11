@@ -1,5 +1,9 @@
 :root {
     --background: #1b2126;
+    --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    --background-branco: #ffffff;
+    --moon: #f1c40f;
+    --sun: #f39c12;
     --span: #a6f750;
     --JetBrains: 'JetBrains mono';
 }

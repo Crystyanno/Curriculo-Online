@@ -16,7 +16,6 @@ body.dark {
 }
 
 .cabecalho h1 {
-    align-items: center;
     margin: 15px;
     text-align: center;
     font-size: 40px;
@@ -64,6 +63,11 @@ body.dark {
 
 .checkbox:checked+.label .ball {
     transform: translateX(35px);
+}
+
+.social-midia {
+    margin: 20px;
+    align-items: center;
 }
 
 .fa-moon {
